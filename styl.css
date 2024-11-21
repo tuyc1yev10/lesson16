@@ -1,0 +1,149 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.doda{
+    padding: 85px 180px;display: flex;
+    gap:40px;
+    flex-wrap: wrap;
+;
+}
+
+.ota{
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+}
+.bola{
+    width: 50px;height: 50px;
+    border-radius: 8px;background-color: chocolate;border: 1px solid #000000 ;
+}
+
+.ota2{
+    
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+flex-direction: column;
+}
+
+
+.ota3{
+    
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+flex-wrap: wrap;
+}
+
+
+
+.ota4{
+    
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+justify-content: space-between;
+}
+
+
+
+.ota{
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+}
+
+.ota6{
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+    justify-content: end;
+}
+
+.ota7{
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+
+
+.ota4{
+    
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+justify-content: space-between;
+}
+
+
+.ota10{
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+    align-items: flex-end;
+}
+
+.ota11{
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+
+}
+
+
+.ota12{
+    
+    width: 240px; height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+justify-content: space-between;
+}
+
+
+
+
+
+
+
+
